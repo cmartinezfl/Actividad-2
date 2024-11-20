@@ -1,5 +1,3 @@
-"""Ejercicio Propuesto: 18"""
-
 codigo=int(input("Código empleado:"))
 nombres=input("Nombres:")
 horas_mes=int(input("Horas de trabajo (mes):"))
