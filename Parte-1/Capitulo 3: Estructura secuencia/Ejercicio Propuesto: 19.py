@@ -1,6 +1,3 @@
-# -*- coding: utf-8 -*-
-"""Ejercicio Propuesto: 19"""
-
 Lado=float(input("Valor lado triangulo"))
 
 perimetro = Lado * 3
