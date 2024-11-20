@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """Ejercicio Propuesto: 18"""
 
 codigo=int(input("Código empleado:"))
